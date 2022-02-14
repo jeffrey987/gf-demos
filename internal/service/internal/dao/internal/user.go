@@ -48,6 +48,7 @@ func NewUserDao() *UserDao {
 
 // DB retrieves and returns the underlying raw database management object of current DAO.
 func (dao *UserDao) DB() gdb.DB {
+
 	return g.DB(dao.group)
 }
 

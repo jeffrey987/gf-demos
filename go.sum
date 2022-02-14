@@ -20,14 +20,6 @@ github.com/go-redis/redis/v8 v8.11.4/go.mod h1:2Z2wHZXdQpCDXEGzqMockDpNyYvi2l4Px
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0/go.mod h1:fyg7847qk6SyHyPtNmDHnmrv/HOrqktSC+C9fM+CJOE=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218061336-31772d5eaca5 h1:hloX2zWjUQOoAqfIMZlD/PI8pJ3UM7aSzfqgOa2G87U=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218061336-31772d5eaca5/go.mod h1:apktt6TleWtCIwpz63vBqUnw8MX8gWKoZyxgDpXFtgM=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218091433-57a1a7607a32 h1:ehXCg6cGelfF+bbGIboLmXPQa+1zvHQ0EOzUwfOdL6E=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218091433-57a1a7607a32/go.mod h1:apktt6TleWtCIwpz63vBqUnw8MX8gWKoZyxgDpXFtgM=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218102504-49789554045f h1:rO7OD0TyFgjpVXxlirL06uet9nooWI9i6yBvV34fVXM=
-github.com/gogf/gf/v2 v2.0.0-beta.0.20211218102504-49789554045f/go.mod h1:apktt6TleWtCIwpz63vBqUnw8MX8gWKoZyxgDpXFtgM=
-github.com/gogf/gf/v2 v2.0.0-rc.0.20220117131058-9345eb5e946f h1:pRSy/LMaK+dDMbzEdsTJwNB7Ms0CUd22soLAUIanbCE=
-github.com/gogf/gf/v2 v2.0.0-rc.0.20220117131058-9345eb5e946f/go.mod h1:apktt6TleWtCIwpz63vBqUnw8MX8gWKoZyxgDpXFtgM=
 github.com/gogf/gf/v2 v2.0.0-rc.0.20220122074538-e517bf7b0e8d h1:wdYf4CiGSwtig3ocbyFzAQKsWb9QzUxUDo/9fW02MwA=
 github.com/gogf/gf/v2 v2.0.0-rc.0.20220122074538-e517bf7b0e8d/go.mod h1:apktt6TleWtCIwpz63vBqUnw8MX8gWKoZyxgDpXFtgM=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
